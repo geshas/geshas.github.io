@@ -1,0 +1,29 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Dependency/build output in case the site grows beyond static files
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+.sass-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS and tool caches
+.eslintcache
+coverage/

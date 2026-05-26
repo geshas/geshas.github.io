@@ -1,0 +1,16 @@
+{
+  "name": "Evgeny Shtein",
+  "short_name": "Evgeny",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#10201f",
+  "description": "Portfolio site for Evgeny Shtein, VP Engineering and cybersecurity engineering leader.",
+  "icons": [
+    {
+      "src": "/Evgeny.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    }
+  ]
+}

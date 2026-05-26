@@ -1,0 +1,32 @@
+# Evgeny Shtein
+
+> Personal portfolio site for Evgeny Shtein, VP Engineering / Head of Engineering in cybersecurity and AI-driven platforms.
+
+## Summary
+
+Evgeny Shtein is a hands-on engineering leader with 15+ years of experience across cybersecurity, endpoint security, SaaS platforms, DevOps, FinOps, cloud infrastructure, Android framework, embedded systems, and engineering culture.
+
+He leads large international engineering teams and focuses on strong execution, healthy work culture, supportive working environments, balanced work-life expectations, infrastructure improvement, and cost discipline.
+
+## Key Pages
+
+- Home: https://evgeny.geshasoft.com/
+- CV: https://evgeny.geshasoft.com/Evgeny.Shtein-CV.pdf
+- Full machine-readable profile: https://evgeny.geshasoft.com/llms-full.txt
+
+## Topics
+
+- Engineering leadership
+- Cybersecurity
+- Endpoint security
+- AI-driven platforms
+- DevOps and FinOps
+- Cloud infrastructure
+- Distributed teams
+- Engineering culture
+- Work-life balance
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/evgeny-shtein-996801b
+- Email: mailto:gesha_s@yahoo.com
